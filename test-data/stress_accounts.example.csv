@@ -1,0 +1,4 @@
+# NON-RUNNABLE EXAMPLE ONLY. Copy to stress_accounts.local.csv and replace placeholders locally after approval.
+username,password,shipping_address
+stress.vu01@local.test,<LOCAL_ONLY_PASSWORD>,Stress VU 01 Address
+stress.vu02@local.test,<LOCAL_ONLY_PASSWORD>,Stress VU 02 Address

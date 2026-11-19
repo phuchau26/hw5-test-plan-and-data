@@ -1,0 +1,2 @@
+username,password,shipping_address
+# DESIGN CONTRACT ONLY. Runtime values reside only in credentials.local.csv, which is ignored by Git.

@@ -1,0 +1,4 @@
+# NON-RUNNABLE EXAMPLE ONLY. Use the existing Git-ignored stress_accounts.local.csv after approval.
+username,password,shipping_address
+spike.vu01@local.test,<LOCAL_ONLY_PASSWORD>,Spike VU 01 Address
+spike.vu02@local.test,<LOCAL_ONLY_PASSWORD>,Spike VU 02 Address

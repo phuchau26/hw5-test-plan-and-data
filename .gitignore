@@ -1,0 +1,22 @@
+# Local credentials and runtime secrets: never publish.
+test-data/*.local.csv
+test-data/*.local.json
+*.env
+*.token
+
+# SUT/database/runtime output: this repository publishes plans and safe test data only.
+*.sqlite
+*.sqlite3
+results/
+evidence/
+submission-output/
+node_modules/
+
+# Editor and build artifacts.
+.vscode/
+*.log
+*.aux
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
